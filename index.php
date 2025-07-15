@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - FlexStart Bootstrap Template</title>
+  <title>UPT PPP BULU</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -27,13 +27,6 @@
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: FlexStart
-  * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-  * Updated: Nov 01 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body class="index-page">
@@ -41,72 +34,93 @@
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto">
+      <a href="index.php" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/logo.png" alt="">
-        <h1 class="sitename">FlexStart</h1>
+        <h1 class="sitename"><b>UPT PPP BULU</b></h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home<br></a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+        <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
+              <li><a href="#">Visi Misi & Tupoksi</a></li>
+              <li><a href="#">Sub Bagian TU</a></li>
+              <li><a href="#">Seksi PTP</a></li>
+              <li><a href="#">Seksi TKPU</a></li>
+              <li><a href="#">Alamat Instalasi</a></li>
+              <li><a href="#">Sambutan</a></li>
             </ul>
           </li>
-          <li class="listing-dropdown"><a href="#"><span>Listing Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown"><a href="#"><span>Informasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Harga Ikan</a></li>
+              <li><a href="#">Hasil Tangkapan PS</a></li>
+              <li><a href="#">Hasil Tangkapan JTK</a></li>
+              <li><a href="#">Info Cuaca</a></li>
+            </ul>
+          </li>
+          <li><a href="blog.html">Berita</a></li>
+          <li class="dropdown"><a href="#"><span>RB-ZI</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Publikasi ZI</a></li>
+              <li><a href="#">Profil ZI</a></li>
+              <li><a href="#">Area Perubahan</a></li>
+              <li><a href="#">AKIP</a></li>
+            </ul>
+          </li>
+          <li class="listing-dropdown"><a href="#"><span>Inovasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li>
-                <a href="#">Column 1 link 1</a>
-                <a href="#">Column 1 link 2</a>
-                <a href="#">Column 1 link 3</a>
+                <a href="#">SIMASDANIS</a>
+                <a href="#">SIMPELPAS</a>
+                <a href="#">Layanan WIB24</a>
               </li>
               <li>
-                <a href="#">Column 2 link 1</a>
-                <a href="#">Column 2 link 2</a>
-                <a href="#">Column 3 link 3</a>
+                <a href="#">SIPARIMANTA</a>
+                <a href="#">SIAPGrak</a>
+                <a href="#">SILAYUR MANTAP</a>
               </li>
               <li>
-                <a href="#">Column 3 link 1</a>
-                <a href="#">Column 3 link 2</a>
-                <a href="#">Column 3 link 3</a>
+                <a href="#">EKLIK</a>
+                <a href="#">IWAKPE</a>
+                <a href="#">SISAMSON</a>
               </li>
               <li>
-                <a href="#">Column 4 link 1</a>
-                <a href="#">Column 4 link 2</a>
-                <a href="#">Column 4 link 3</a>
-              </li>
-              <li>
-                <a href="#">Column 5 link 1</a>
-                <a href="#">Column 5 link 2</a>
-                <a href="#">Column 5 link 3</a>
+                <a href="#">PRESPRAKTIKA</a>
+                <a href="#">Unduh SIPARIMANTA Apps</a>
+                <a href="#">(space)</a>
               </li>
             </ul>
           </li>
-          <li><a href="#contact">Contact</a></li>
+          <li class="dropdown"><a href="#"><span>Layanan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Kepelabuhanan</a></li>
+              <li><a href="#">SOP</a></li>
+              <li><a href="#">Standar Pelayanan</a></li>
+              <li><a href="#">Tarif Retribusi</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>PPID</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Permohonan Magang</a></li>
+              <li><a href="#">Permintaan Data</a></li>
+              <li><a href="#">DIP</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Survei</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">E-SUKMA</a></li>
+              <li><a href="#">EKLIK</a></li>
+              <li><a href="#">Persepsi Anti Korupsi</a></li>
+              <li><a href="#">SP4N Lapor!</a></li>
+            </ul>
+          </li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted flex-md-shrink-0" href="index.html#about">Get Started</a>
+      <a class="btn-getstarted flex-md-shrink-0" href="index.php">WA Center</a>
 
     </div>
   </header>
@@ -119,12 +133,11 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-            <p data-aos="fade-up" data-aos-delay="100">We are team of talented designers making websites with Bootstrap</p>
+            <h1 data-aos="fade-up">Selamat Datang Layanan dan Informasi</h1>
+            <p data-aos="fade-up" data-aos-delay="100">Unit Pelaksana Teknis Pelabuhan Perikanan Pantai Bulu - Dinas Kelautan Dan Perikanan Provinsi Jawa Timur</p>
             <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
-              <a href="#about" class="btn-get-started">Get Started <i class="bi bi-arrow-right"></i></a>
-              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center justify-content-center ms-0 ms-md-4 mt-4 mt-md-0"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
-            </div>
+              <a href="#about" class="btn-get-started">Layanan WIB24 <i class="bi bi-whatsapp"></i></a>
+              </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
             <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
@@ -142,14 +155,14 @@
 
           <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <div class="content">
-              <h3>Who We Are</h3>
-              <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+              <h3>Selayang Pandang</h3>
+              <h2>Sejarah Pelabuhan Perikanan Pantai Bulu awalnya pada tahun 1985 adalah Pilot Proyek Pemasaran Ikan Basah (PPPIB) Jawa Timur yang merupakan proyek bantuan dari Masyarakat Ekonomi Eropa (MEE).</h2>
               <p>
-                Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+              sebagai salah satu Unit Pelaksana Teknis Dinas Kelautan dan Perikanan Provinsi Jawa  Timur diharapkan bisa menjadi pusat kegiatan bongkar / muat hasil produksi, pemasaran, pengolahann hasil perikanan serta mampu mengadakan pembinaan intensif terhadap usaha perikanan tangkap khususnya dan pembinaan masyarakat perikanan pada umumnya, sehingga UPT Pelabuhan Perikanan Pantai Bulu dapat menunjang tercapainya pembangunan perikanan tangkap dan menumbuhkembangkan perekonomian masyarakat secara berkesinambungan.
               </p>
               <div class="text-center text-lg-start">
                 <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                  <span>Read More</span>
+                  <span>Selengkapnya</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>
@@ -181,7 +194,7 @@
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="card">
               <img src="assets/img/values-1.png" class="img-fluid" alt="">
-              <h3>Ad cupiditate sed est odio</h3>
+              <h3>Pelayanan Kepelabuhanan</h3>
               <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
             </div>
           </div><!-- End Card Item -->
@@ -189,7 +202,7 @@
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="card">
               <img src="assets/img/values-2.png" class="img-fluid" alt="">
-              <h3>Voluptatem voluptatum alias</h3>
+              <h3>Pelayanan Pengguna Jasa</h3>
               <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
             </div>
           </div><!-- End Card Item -->
@@ -197,7 +210,7 @@
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
             <div class="card">
               <img src="assets/img/values-3.png" class="img-fluid" alt="">
-              <h3>Fugit cupiditate alias nobis.</h3>
+              <h3>Pelayanan Data dan Informasi</h3>
               <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
             </div>
           </div><!-- End Card Item -->
@@ -217,40 +230,40 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
+              <i class="bi bi-people color-blue flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Happy Clients</p>
+                <p>Pemilik</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="bi bi-journal-richtext color-orange flex-shrink-0" style="color: #ee6c20;"></i>
+              <i class="bi bi-people color-blue flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Projects</p>
+                <p>Pengguna Jasa</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="bi bi-headset color-green flex-shrink-0" style="color: #15be56;"></i>
+              <i class="bi bi-headset color-blue flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Hours Of Support</p>
+                <p>Saran dan Aduan</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="bi bi-people color-pink flex-shrink-0" style="color: #bb0852;"></i>
+              <i class="bi bi-people color-blue flex-shrink-0"></i>
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Hard Workers</p>
+                <p>Permintaan Data</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
@@ -266,8 +279,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Features</h2>
-        <p>Our Advacedd Features<br></p>
+        <h2>Kegiatan</h2>
+        <p>Sarana Penunjang dan Fungsional<br></p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -284,42 +297,42 @@
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Eos aspernatur rem</h3>
+                  <h3>Dermaga dan Breakwater</h3>
                 </div>
               </div><!-- End Feature Item -->
 
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Facilis neque ipsa</h3>
+                  <h3>Tempat Pelelangan Ikan</h3>
                 </div>
               </div><!-- End Feature Item -->
 
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Volup amet volupt</h3>
+                  <h3>Gedung Serbaguna</h3>
                 </div>
               </div><!-- End Feature Item -->
 
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Rerum omnis sint</h3>
+                  <h3>Pos Pantau</h3>
                 </div>
               </div><!-- End Feature Item -->
 
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Alias possimus</h3>
+                  <h3>GuestHouse</h3>
                 </div>
               </div><!-- End Feature Item -->
 
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="700">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Repellendus molli</h3>
+                  <h3>Pos Keamanan Terpadu</h3>
                 </div>
               </div><!-- End Feature Item -->
 
@@ -346,7 +359,7 @@
               <div class="col-md-6 icon-box">
                 <i class="bi bi-award"></i>
                 <div>
-                  <h4>Corporis voluptates sit</h4>
+                  <h4>Pelayanan Kepelabuhanan</h4>
                   <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                 </div>
               </div><!-- End Feature Item -->
@@ -354,7 +367,7 @@
               <div class="col-md-6 icon-box">
                 <i class="bi bi-card-checklist"></i>
                 <div>
-                  <h4>Ullamco laboris nisi</h4>
+                  <h4>Pelayanan Sewa dan Jasa</h4>
                   <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                 </div>
               </div><!-- End Feature Item -->
@@ -362,7 +375,7 @@
               <div class="col-md-6 icon-box">
                 <i class="bi bi-dribbble"></i>
                 <div>
-                  <h4>Labore consequatur</h4>
+                  <h4>Pelayanan Magang dan Penelitian</h4>
                   <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                 </div>
               </div><!-- End Feature Item -->
@@ -370,7 +383,7 @@
               <div class="col-md-6 icon-box">
                 <i class="bi bi-filter-circle"></i>
                 <div>
-                  <h4>Beatae veritatis</h4>
+                  <h4>Pelayanan Data dan Informasi</h4>
                   <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                 </div>
               </div><!-- End Feature Item -->
@@ -378,7 +391,7 @@
               <div class="col-md-6 icon-box">
                 <i class="bi bi-lightning-charge"></i>
                 <div>
-                  <h4>Molestiae dolor</h4>
+                  <h4>Pelayanan Kesyahbandaran</h4>
                   <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
                 </div>
               </div><!-- End Feature Item -->
@@ -386,7 +399,7 @@
               <div class="col-md-6 icon-box">
                 <i class="bi bi-patch-check"></i>
                 <div>
-                  <h4>Explicabo consectetur</h4>
+                  <h4>Edukasi dan Sosialisasi Masyarakat</h4>
                   <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                 </div>
               </div><!-- End Feature Item -->
@@ -421,7 +434,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item item-cyan position-relative">
               <i class="bi bi-activity icon"></i>
-              <h3>Nesciunt Mete</h3>
+              <h3>Layanan Aduan</h3>
               <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
               <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -430,7 +443,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item item-orange position-relative">
               <i class="bi bi-broadcast icon"></i>
-              <h3>Eosle Commodi</h3>
+              <h3>Syarat Pelayanan Dokumen</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
               <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -439,7 +452,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item item-teal position-relative">
               <i class="bi bi-easel icon"></i>
-              <h3>Ledo Markt</h3>
+              <h3>Tarif Retribusi</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
               <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -448,7 +461,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item item-red position-relative">
               <i class="bi bi-bounding-box-circles icon"></i>
-              <h3>Asperiores Commodi</h3>
+              <h3>Permohonan Izin Magang</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
               <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -457,7 +470,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-item item-indigo position-relative">
               <i class="bi bi-calendar4-week icon"></i>
-              <h3>Velit Doloremque.</h3>
+              <h3>Permohonan Data Informasi</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
               <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -466,7 +479,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-item item-pink position-relative">
               <i class="bi bi-chat-square-text icon"></i>
-              <h3>Dolori Architecto</h3>
+              <h3>Penilitian</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
               <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -478,93 +491,7 @@
 
     </section><!-- /Services Section -->
 
-    <!-- Pricing Section -->
-    <section id="pricing" class="pricing section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Pricing</h2>
-        <p>Check Our Affordable Pricing<br></p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
-            <div class="pricing-tem">
-              <h3 style="color: #20c997;">Free Plan</h3>
-              <div class="price"><sup>$</sup>0<span> / mo</span></div>
-              <div class="icon">
-                <i class="bi bi-box" style="color: #20c997;"></i>
-              </div>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pricing-tem">
-              <span class="featured">Featured</span>
-              <h3 style="color: #0dcaf0;">Starter Plan</h3>
-              <div class="price"><sup>$</sup>19<span> / mo</span></div>
-              <div class="icon">
-                <i class="bi bi-send" style="color: #0dcaf0;"></i>
-              </div>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-            <div class="pricing-tem">
-              <h3 style="color: #fd7e14;">Business Plan</h3>
-              <div class="price"><sup>$</sup>29<span> / mo</span></div>
-              <div class="icon">
-                <i class="bi bi-airplane" style="color: #fd7e14;"></i>
-              </div>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-            <div class="pricing-tem">
-              <h3 style="color: #0d6efd;">Ultimate Plan</h3>
-              <div class="price"><sup>$</sup>49<span> / mo</span></div>
-              <div class="icon">
-                <i class="bi bi-rocket" style="color: #0d6efd;"></i>
-              </div>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div><!-- End Pricing Item -->
-
-        </div><!-- End pricing row -->
+   
 
       </div>
 
@@ -653,307 +580,7 @@
 
     </section><!-- /Faq Section -->
 
-    <!-- Portfolio Section -->
-    <section id="portfolio" class="portfolio section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
-        <p>Check our latest work</p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-
-          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Product</li>
-            <li data-filter=".filter-branding">Branding</li>
-            <li data-filter=".filter-books">Books</li>
-          </ul><!-- End Portfolio Filters -->
-
-          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>App 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/app-3.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Product 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Branding 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Books 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-          </div><!-- End Portfolio Container -->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Portfolio Section -->
-
-    <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <p>What they are saying about us<br></p>
-      </div><!-- End Section Title -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="swiper init-swiper">
-          <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              },
-              "breakpoints": {
-                "320": {
-                  "slidesPerView": 1,
-                  "spaceBetween": 40
-                },
-                "1200": {
-                  "slidesPerView": 3,
-                  "spaceBetween": 1
-                }
-              }
-            }
-          </script>
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                </p>
-                <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-
-    </section><!-- /Testimonials Section -->
+    
 
     <!-- Team Section -->
     <section id="team" class="team section">
@@ -1055,8 +682,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Clients</h2>
-        <p>We work with best clients<br></p>
+        <h2>Kerja Sama</h2>
+        <p>Kolaborasi Lintas Sektor (Penelitian dan Magang)<br></p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -1117,8 +744,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Recent Posts</h2>
-        <p>Recent posts form our Blog</p>
+        <h2>Kabar Baru</h2>
+        <p>Berita Terkini Pelabuhan</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -1224,99 +851,7 @@
 
     </section><!-- /Recent Posts Section -->
 
-    <!-- Contact Section -->
-    <section id="contact" class="contact section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Contact Us</p>
-      </div><!-- End Section Title -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-6">
-
-            <div class="row gy-4">
-              <div class="col-md-6">
-                <div class="info-item" data-aos="fade" data-aos-delay="200">
-                  <i class="bi bi-geo-alt"></i>
-                  <h3>Address</h3>
-                  <p>A108 Adam Street</p>
-                  <p>New York, NY 535022</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item" data-aos="fade" data-aos-delay="300">
-                  <i class="bi bi-telephone"></i>
-                  <h3>Call Us</h3>
-                  <p>+1 5589 55488 55</p>
-                  <p>+1 6678 254445 41</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item" data-aos="fade" data-aos-delay="400">
-                  <i class="bi bi-envelope"></i>
-                  <h3>Email Us</h3>
-                  <p>info@example.com</p>
-                  <p>contact@example.com</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item" data-aos="fade" data-aos-delay="500">
-                  <i class="bi bi-clock"></i>
-                  <h3>Open Hours</h3>
-                  <p>Monday - Friday</p>
-                  <p>9:00AM - 05:00PM</p>
-                </div>
-              </div><!-- End Info Item -->
-
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-              <div class="row gy-4">
-
-                <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
-                </div>
-
-                <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
-                </div>
-
-                <div class="col-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
-                </div>
-
-                <div class="col-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
-                </div>
-
-                <div class="col-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                  <button type="submit">Send Message</button>
-                </div>
-
-              </div>
-            </form>
-          </div><!-- End Contact Form -->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Contact Section -->
+    
 
   </main>
 
@@ -1326,14 +861,18 @@
       <div class="container">
         <div class="row justify-content-center text-center">
           <div class="col-lg-6">
-            <h4>Join Our Newsletter</h4>
-            <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
-            <form action="forms/newsletter.php" method="post" class="php-email-form">
-              <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your subscription request has been sent. Thank you!</div>
-            </form>
+            <h4>Ikuti Kami di Media Digital</h4>
+            <p>Untuk mendaptakan Informasi Terkini, silahkan ikuti di Sosial Media Kami</p>
+            <p>
+            <div class="social-links d-flex row justify-content-center text-center">
+            <a href=""><i class="bi bi-twitter-x"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a>
+            <a href=""><i class="bi bi-youtube"></i></a>
+            <a href=""><i class="bi bi-threads"></i></a>
+            </div>
+          </p>
           </div>
         </div>
       </div>
@@ -1341,60 +880,45 @@
 
     <div class="container footer-top">
       <div class="row gy-4">
-        <div class="col-lg-4 col-md-6 footer-about">
+        
+
+        <div class="col-lg-2 col-md-3 footer-links">
+          Tambah Logo UPT
+        </div>
+
+        <div class="col-lg-7 col-md-6 footer-about">
           <a href="index.html" class="d-flex align-items-center">
-            <span class="sitename">FlexStart</span>
+            <span class="sitename"><b>UPT Pelabuhan Perikanan Pantai Bulu</b></span>
           </a>
           <div class="footer-contact pt-3">
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-            <p><strong>Email:</strong> <span>info@example.com</span></p>
+            <p>Jalan Raya Tuban-Semarang Km.45</p>
+            <p>Desa Bulumeduro, Bancar, Tuban 62354</p>
+            <p><strong>Whatsapp:</strong> <span>+62 85910 6968 223</span> | <strong>Phone:</strong> <span>+62 356 411024</span> | <strong>Email:</strong> <span>ppp_bulu@jatimprov.go.id</span></p>
+            <p></p>
           </div>
         </div>
 
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-          </ul>
-        </div>
+        
 
         <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Our Services</h4>
+        <h4>Link Terkait</h4>
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Website DKP Jatim</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Website Jatimprov</a></li>
           </ul>
-        </div>
-
-        <div class="col-lg-4 col-md-12">
-          <h4>Follow Us</h4>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
-          <div class="social-links d-flex">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
         </div>
 
       </div>
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">FlexStart</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Tim Aptika Pelabuhan Perikanan Pantai Bulu</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Didukung Oleh <a href="https://plkdev.my.id/">PLK Studio</a>
       </div>
     </div>
 
