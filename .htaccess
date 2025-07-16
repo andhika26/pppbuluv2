@@ -175,8 +175,9 @@ Header set Cache-Control "max-age=7200, must-revalidate"
 #==============Mencegah hotlinking============================#
 RewriteEngine on
 RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?pppbulu.dkp.jatimprov.go.id [NC]
-RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
+#RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?pppbulu.dkp.jatimprov.go.id [NC]
+RewriteCond %{HTTP_REFERER} !^localhost [NC]
+RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC]
 RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?page=$1 [nc]
 RewriteRule ^read/([a-zA-Z0-9_=]+)$ baca-berita.php?id=$1 [NC]
 </IfModule>
