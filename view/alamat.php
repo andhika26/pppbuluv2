@@ -1,14 +1,13 @@
-<body class="starter-page-page">
-  <?php include("menubar.php"); ?>
 <main class="main">
-<br><br><br>
+
     <!-- Page Title -->
     <div class="page-title">
       <div class="heading">
         <div class="container">
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
-              <h1>Visi dan Misi</h1>
+              <br><br><br><br> 
+              <h1>Alamat Instalasi</h1>
               <p class="mb-0">Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
             </div>
           </div>
@@ -18,7 +17,7 @@
         <div class="container">
           <ol>
             <li><a href="/">Home</a></li>
-            <li class="current">Visi dan Misi</li>
+            <li class="current">Alamat Instalasi</li>
           </ol>
         </div>
       </nav>
@@ -40,4 +39,3 @@
     </section><!-- /Starter Section Section -->
 
   </main>
-</body>

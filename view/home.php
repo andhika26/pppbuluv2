@@ -1,5 +1,3 @@
-<body class="index-page">
-<?php include("menubar.php"); ?>
 <main class="main">
 
     <!-- Hero Section -->

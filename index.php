@@ -42,7 +42,8 @@
 
 </head>
 
-
+<body class="index-page">
+  <?php include("menubar.php"); ?>
 
   
 
