@@ -189,7 +189,7 @@ RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?pppbulu.dkp.jatimprov.go.id [NC]
 RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?page=$1 [nc]
-RewriteRule ^read/([a-zA-Z0-9_=]+)$ baca-artikel.php?id=$1 [NC]
+RewriteRule ^read/([a-zA-Z0-9_=]+)$ baca-berita.php?id=$1 [NC]
 </IfModule>
 
 ##Block bad bots
