@@ -26,6 +26,12 @@
         case 'alamat-instalasi':
             include "view/alamat.php";
             break;
+        case 'sambutan':
+            include "view/sambutan.php";
+            break;
+        case 'berita':
+            include "blogroll/blog.php";
+            break;
 			
 
          //opsi route default

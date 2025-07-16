@@ -27,7 +27,7 @@
               <li><a href="#">Info Cuaca</a></li>
             </ul>
           </li>
-          <li><a href="blog.html">Berita</a></li>
+          <li><a href="./berita">Berita</a></li>
           <li class="dropdown"><a href="#"><span>RB-ZI</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Publikasi ZI</a></li>
