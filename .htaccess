@@ -179,7 +179,7 @@ RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^localhost [NC]
 RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC]
 RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?page=$1 [nc]
-RewriteRule ^read/([a-zA-Z0-9_=]+)$ baca-berita.php?id=$1 [NC]
+RewriteRule ^baca/([a-zA-Z0-9_=]+)$ blogroll/baca-blog.php?id=$1 [NC]
 </IfModule>
 
 ##Block bad bots
