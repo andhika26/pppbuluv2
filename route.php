@@ -6,7 +6,7 @@
 
 		 //opsi routing halaman
          case 'home':
-            include "home.php";
+            include "view/home.php";
             break;
 			
 
