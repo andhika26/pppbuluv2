@@ -24,108 +24,30 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+
+  <script language="Javascript" type="text/javascript">
+    function validateInput(input) {
+    // Regular expression untuk mencocokkan huruf dan spasi
+    const regex = /^[a-zA-Z\s]*$/;
+
+    // Hapus karakter yang tidak sesuai dengan regex
+    if (!regex.test(input.value)) {
+        input.value = input.value.replace(/[^a-zA-Z\s]/g, '');
+      }
+    }
+  </script>
+
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
 </head>
 
-<body class="index-page">
 
-  <header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center">
-
-      <a href="index.php" class="logo d-flex align-items-center me-auto">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo.png" alt="">
-        <h1 class="sitename"><b>UPT PPP BULU</b></h1>
-      </a>
-
-      <nav id="navmenu" class="navmenu">
-        <ul>
-        <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Visi Misi & Tupoksi</a></li>
-              <li><a href="#">Sub Bagian TU</a></li>
-              <li><a href="#">Seksi PTP</a></li>
-              <li><a href="#">Seksi TKPU</a></li>
-              <li><a href="#">Alamat Instalasi</a></li>
-              <li><a href="#">Sambutan</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Informasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Harga Ikan</a></li>
-              <li><a href="#">Hasil Tangkapan PS</a></li>
-              <li><a href="#">Hasil Tangkapan JTK</a></li>
-              <li><a href="#">Info Cuaca</a></li>
-            </ul>
-          </li>
-          <li><a href="blog.html">Berita</a></li>
-          <li class="dropdown"><a href="#"><span>RB-ZI</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Publikasi ZI</a></li>
-              <li><a href="#">Profil ZI</a></li>
-              <li><a href="#">Area Perubahan</a></li>
-              <li><a href="#">AKIP</a></li>
-            </ul>
-          </li>
-          <li class="listing-dropdown"><a href="#"><span>Inovasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li>
-                <a href="#">SIMASDANIS</a>
-                <a href="#">SIMPELPAS</a>
-                <a href="#">Layanan WIB24</a>
-              </li>
-              <li>
-                <a href="#">SIPARIMANTA</a>
-                <a href="#">SIAPGrak</a>
-                <a href="#">SILAYUR MANTAP</a>
-              </li>
-              <li>
-                <a href="#">EKLIK</a>
-                <a href="#">IWAKPE</a>
-                <a href="#">SISAMSON</a>
-              </li>
-              <li>
-                <a href="#">PRESPRAKTIKA</a>
-                <a href="#">Unduh SIPARIMANTA Apps</a>
-                <a href="#">(space)</a>
-              </li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Layanan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Kepelabuhanan</a></li>
-              <li><a href="#">SOP</a></li>
-              <li><a href="#">Standar Pelayanan</a></li>
-              <li><a href="#">Tarif Retribusi</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>PPID</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Permohonan Magang</a></li>
-              <li><a href="#">Permintaan Data</a></li>
-              <li><a href="#">DIP</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Survei</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">E-SUKMA</a></li>
-              <li><a href="#">EKLIK</a></li>
-              <li><a href="#">Persepsi Anti Korupsi</a></li>
-              <li><a href="#">SP4N Lapor!</a></li>
-            </ul>
-          </li>
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
-
-      <a class="btn-getstarted flex-md-shrink-0" href="index.php">WA Center</a>
-
-    </div>
-  </header>
 
   
+
+  <!-- // == Routing Logic == -->
+<?php include("route.php"); ?>
 
   <footer id="footer" class="footer">
 
