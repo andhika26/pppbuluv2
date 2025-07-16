@@ -1,5 +1,6 @@
 
 <body class="starter-page-page">
+  <?php include("menubar.php"); ?>
 <main class="main">
 <br><br><br>
     <!-- Page Title -->

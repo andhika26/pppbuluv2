@@ -15,7 +15,7 @@
               </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-            <img src="../assets/img/hero-img.png" class="img-fluid animated" alt="">
+            <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
           </div>
         </div>
       </div>
@@ -45,7 +45,7 @@
           </div>
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="../assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -163,7 +163,7 @@
         <div class="row gy-5">
 
           <div class="col-xl-6" data-aos="zoom-out" data-aos-delay="100">
-            <img src="../assets/img/features.png" class="img-fluid" alt="">
+            <img src="assets/img/features.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-xl-6 d-flex">
@@ -284,7 +284,7 @@
           </div>
 
           <div class="col-xl-5 d-flex align-items-center order-1 order-xl-2" data-aos="fade-up" data-aos-delay="100">
-            <img src="../assets/img/alt-features.png" class="img-fluid" alt="">
+            <img src="assets/img/alt-features.png" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -473,7 +473,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member">
               <div class="member-img">
-                <img src="../assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -492,7 +492,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <div class="member-img">
-                <img src="../assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -511,7 +511,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="../assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -530,7 +530,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="team-member">
               <div class="member-img">
-                <img src="../assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -598,14 +598,14 @@
             }
           </script>
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="../assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="../assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -631,7 +631,7 @@
             <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="../assets/img/blog/blog-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt="">
                 <span class="post-date">December 12</span>
               </div>
 
@@ -662,7 +662,7 @@
             <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="200">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="../assets/img/blog/blog-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/blog/blog-2.jpg" class="img-fluid" alt="">
                 <span class="post-date">July 17</span>
               </div>
 
@@ -693,7 +693,7 @@
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="../assets/img/blog/blog-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/blog/blog-3.jpg" class="img-fluid" alt="">
                 <span class="post-date">September 05</span>
               </div>
 

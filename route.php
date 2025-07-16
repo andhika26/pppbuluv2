@@ -6,7 +6,7 @@
 
 		//opsi routing halaman
         case 'home':
-            include "view/home.php";
+            include "home.php";
             break;
         case 'visi-dan-misi':
             include "view/visimisi.php";
@@ -30,12 +30,12 @@
 
          //opsi route default
 		default:
-			include "view/home.php";
+			include "home.php";
 			break;
 		}
 }else{
         //opsi jika route tidak ditemukan
-		include "view/home.php";
+		include "home.php";
 }
 
 ?>
