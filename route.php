@@ -30,7 +30,7 @@
             include "view/sambutan.php";
             break;
         case 'berita':
-            include "blogroll/blog.php";
+            include "blogroll/blog-grid.php";
             break;
 			
 
