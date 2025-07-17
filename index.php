@@ -78,7 +78,7 @@
         
 
         <div class="col-lg-2 col-md-3 footer-links">
-          Tambah Logo UPT
+          <img src="assets/img/logo-upt.jpg" alt="" class="img-fluid">
         </div>
 
         <div class="col-lg-7 col-md-6 footer-about">
